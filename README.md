@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshishMishra09
 - 👀 I’m interested in learning DataScience projects  
 - 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on ML / EDA projects
+- 💞️ I’m looking to collaborate on DataScience projects
 - 📫 How to reach me call on 9167109899
 
 <!---
